@@ -1,0 +1,139 @@
+1637919190976	geckodriver	INFO	Listening on 127.0.0.1:45949
+1637919191981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUQ2cu3"
+1637919194384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUQ2cu3/search.json.mozlz4", (void 0)))
+1637919198182	Marionette	INFO	Listening on port 37171
+1637919198340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637919209628	Marionette	INFO	Stopped listening on port 37171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637919236006	geckodriver	INFO	Listening on 127.0.0.1:37383
+1637919237014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilep7qiAq"
+1637919239067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep7qiAq/search.json.mozlz4", (void 0)))
+1637919242245	Marionette	INFO	Listening on port 34719
+1637919242340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQC14Wpt2Vx068FqDsLuNC4zZH9LOG%2BjqJOwRC1Q289c83Vkoh3GI2WBQpAKImoM5BFHQWW%2BOZpXv779jkaE9Mr%2Bl3Q3rZ4qvk%2BkX1BglzoxpRMZO6ZNFl1Luqphv2bWXkh5AkjpuqZAee9aMFqHjlO38Ou18gj1nWBovvK2Vim6Q8O91G9oXNiBneocDnBw4AbI%2B%2FQaWjA6LbqSV6Y5wFkp2GLgyxgga2hG7YCA7ycKCVCZ4WtrELS7xXtrREL72CYrcX%2BY0XcKokV3ph3dITRCpKNkMbuM85hJexy5ifGOfgxpHykZADQ4yrlqPAIWJjKWFRoCr7EPFnY%2FFB2n%2FPq2OwKo%2Blu83F%2BMN748I8%2FD5%2BIqrzOlS5d2Cu6VUzmeyzKeUT2acTYrJMW6VguWWUpRV5vMuxg2SJkXOS%2FerqCSADMMNdRVcsJMWBLWdcqTh3e2sfCu4w%3D%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 1072 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQC14Wpt2Vx068FqDsLuNC4zZH9LOG%2BjqJOwRC1Q289c83Vkoh3GI2WBQpAKImoM5BFHQWW%2BOZpXv779jkaE9Mr%2Bl3Q3rZ4qvk%2BkX1BglzoxpRMZO6ZNFl1Luqphv2bWXkh5AkjpuqZAee9aMFqHjlO38Ou18gj1nWBovvK2Vim6Q8O91G9oXNiBneocDnBw4AbI%2B%2FQaWjA6LbqSV6Y5wFkp2GLgyxgga2hG7YCA7ycKCVCZ4WtrELS7xXtrREL72CYrcX%2BY0XcKokV3ph3dITRCpKNkMbuM85hJexy5ifGOfgxpHykZADQ4yrlqPAIWJjKWFRoCr7EPFnY%2FFB2n%2FPq2OwKo%2Blu83F%2BMN748I8%2FD5%2BIqrzOlS5d2Cu6VUzmeyzKeUT2acTYrJMW6VguWWUpRV5vMuxg2SJkXOS%2FerqCSADMMNdRVcsJMWBLWdcqTh3e2sfCu4w%3D%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 4323 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQC14Wpt2Vx068FqDsLuNC4zZH9LOG%2BjqJOwRC1Q289c83Vkoh3GI2WBQpAKImoM5BFHQWW%2BOZpXv779jkaE9Mr%2Bl3Q3rZ4qvk%2BkX1BglzoxpRMZO6ZNFl1Luqphv2bWXkh5AkjpuqZAee9aMFqHjlO38Ou18gj1nWBovvK2Vim6Q8O91G9oXNiBneocDnBw4AbI%2B%2FQaWjA6LbqSV6Y5wFkp2GLgyxgga2hG7YCA7ycKCVCZ4WtrELS7xXtrREL72CYrcX%2BY0XcKokV3ph3dITRCpKNkMbuM85hJexy5ifGOfgxpHykZADQ4yrlqPAIWJjKWFRoCr7EPFnY%2FFB2n%2FPq2OwKo%2Blu83F%2BMN748I8%2FD5%2BIqrzOlS5d2Cu6VUzmeyzKeUT2acTYrJMW6VguWWUpRV5vMuxg2SJkXOS%2FerqCSADMMNdRVcsJMWBLWdcqTh3e2sfCu4w%3D%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect&flowName=GeneralOAuthFlow line 1 > eval line 5931 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637919291653	Marionette	INFO	Stopped listening on port 34719
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638279683005	geckodriver	INFO	Listening on 127.0.0.1:53685
+1638279684471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBxjJGT"
+1638279685788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBxjJGT/search.json.mozlz4", (void 0)))
+1638279689411	Marionette	INFO	Listening on port 38461
+1638279689936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/beta/ethicalads.min.js, line 1: Error: Placement is configured with invalid parameters.
+1638279695717	Marionette	INFO	Stopped listening on port 38461
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638280878742	geckodriver	INFO	Listening on 127.0.0.1:33073
+1638280880231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileleyD6D"
+1638280880990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileleyD6D/search.json.mozlz4", (void 0)))
+1638280883806	Marionette	INFO	Listening on port 39593
+1638280884088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDu1Iy16oQF%2FdHtcEhoyB%2BNg%2BxLdlcUtIOpJdaFsgWI8bmAHm1bFAQCwF%2BXti%2BkB5LOehs4dyCaQfhLsG3kWXu9VXjMYFWUdjC1OQGwQx9CP210St%2BlRiHbo4uocplnclziNvPtKwo0CL60k9w%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 7771 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDu1Iy16oQF%2FdHtcEhoyB%2BNg%2BxLdlcUtIOpJdaFsgWI8bmAHm1bFAQCwF%2BXti%2BkB5LOehs4dyCaQfhLsG3kWXu9VXjMYFWUdjC1OQGwQx9CP210St%2BlRiHbo4uocplnclziNvPtKwo0CL60k9w%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 4087 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDu1Iy16oQF%2FdHtcEhoyB%2BNg%2BxLdlcUtIOpJdaFsgWI8bmAHm1bFAQCwF%2BXti%2BkB5LOehs4dyCaQfhLsG3kWXu9VXjMYFWUdjC1OQGwQx9CP210St%2BlRiHbo4uocplnclziNvPtKwo0CL60k9w%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect&flowName=GeneralOAuthFlow line 1 > eval line 6867 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www-growth.scdn.co/_next/static/chunks/main-dddc91553d72e7dc2615.js, line 1: TypeError: n is null
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDBGQUHy8gt72T%2FiR3xv7Lc52bsPJBX3%2FF32VxqoEesFzr2rdzlHc9Ts0Gc9jAOO%2BYOFNDD6Bsk%2Bbea3j5s%2Fjrzg4UP%2B7Ri2AR354AihHFKMBbSdGrcsZw8z1tC8Fc9cvvbCWyi%2Bp7EcWhWn5Y%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 1258 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDBGQUHy8gt72T%2FiR3xv7Lc52bsPJBX3%2FF32VxqoEesFzr2rdzlHc9Ts0Gc9jAOO%2BYOFNDD6Bsk%2Bbea3j5s%2Fjrzg4UP%2B7Ri2AR354AihHFKMBbSdGrcsZw8z1tC8Fc9cvvbCWyi%2Bp7EcWhWn5Y%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect line 1 > eval line 4360 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=1046568431490-ij1gi5shcp2gtorls09frkc56d4mjbe2.apps.googleusercontent.com&state=AQDBGQUHy8gt72T%2FiR3xv7Lc52bsPJBX3%2FF32VxqoEesFzr2rdzlHc9Ts0Gc9jAOO%2BYOFNDD6Bsk%2Bbea3j5s%2Fjrzg4UP%2B7Ri2AR354AihHFKMBbSdGrcsZw8z1tC8Fc9cvvbCWyi%2Bp7EcWhWn5Y%3D&scope=profile+email+openid&redirect_uri=https%3A%2F%2Faccounts.spotify.com%2Flogin%2Fgoogle%2Fredirect&flowName=GeneralOAuthFlow line 1 > eval line 6906 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www-growth.scdn.co/_next/static/chunks/main-dddc91553d72e7dc2615.js, line 1: TypeError: n is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638281343777	Marionette	INFO	Stopped listening on port 39593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23075, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1638281347008	geckodriver	INFO	Listening on 127.0.0.1:51383
+1638281348499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePzIMkv"
+1638281349184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePzIMkv/search.json.mozlz4", (void 0)))
+1638281352745	Marionette	INFO	Listening on port 45105
+1638281353030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1638281396557	Marionette	INFO	Stopped listening on port 45105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638281398820	geckodriver	INFO	Listening on 127.0.0.1:60833
+1638281400314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTfvsuo"
+1638281400999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTfvsuo/search.json.mozlz4", (void 0)))
+1638281404215	Marionette	INFO	Listening on port 37199
+1638281404478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638281415626	Marionette	INFO	Stopped listening on port 37199
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638281661335	geckodriver	INFO	Listening on 127.0.0.1:51165
+1638281662821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0wQBR1"
+1638281663508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0wQBR1/search.json.mozlz4", (void 0)))
+1638281666062	Marionette	INFO	Listening on port 33965
+1638281666682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://open.scdn.co/cdn/build/web-player/vendor~web-player.b755e7fa.js, line 1: unreachable code after return statement
+JavaScript warning: https://open.scdn.co/cdn/build/web-player/vendor~web-player.b755e7fa.js, line 1: unreachable code after return statement
+JavaScript error: https://open.scdn.co/cdn/build/web-player/web-player.55e6d66f.js, line 1: EMEError: No supported keysystem was found.
+JavaScript error: https://open.scdn.co/cdn/build/web-player/web-player.55e6d66f.js, line 1: PlaybackError: No supported keysystem was found.
+1638281707635	Marionette	INFO	Stopped listening on port 33965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638281939619	geckodriver	INFO	Listening on 127.0.0.1:44083
+1638281941109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePM2Nd2"
+1638281941800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePM2Nd2/search.json.mozlz4", (void 0)))
+1638281944890	Marionette	INFO	Listening on port 36451
+1638281945110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638281953021	Marionette	INFO	Stopped listening on port 36451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638281982108	geckodriver	INFO	Listening on 127.0.0.1:34899
+1638281983625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFDpdxa"
+1638281984332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFDpdxa/search.json.mozlz4", (void 0)))
+1638281986966	Marionette	INFO	Listening on port 34725
+1638281987190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1638282015953	Marionette	INFO	Stopped listening on port 34725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638282019537	geckodriver	INFO	Listening on 127.0.0.1:59115
+1638282021027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaDNG5f"
+1638282021716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaDNG5f/search.json.mozlz4", (void 0)))
+1638282024462	Marionette	INFO	Listening on port 46289
+1638282024715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638282029971	Marionette	INFO	Stopped listening on port 46289
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638282035612	geckodriver	INFO	Listening on 127.0.0.1:35153
+1638282037101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilev7ESFo"
+1638282037780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev7ESFo/search.json.mozlz4", (void 0)))
+1638282040718	Marionette	INFO	Listening on port 43753
+1638282040900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638282046684	Marionette	INFO	Stopped listening on port 43753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
