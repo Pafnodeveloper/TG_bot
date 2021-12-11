@@ -1,0 +1,4 @@
+__pycache__/
+song/
+.cache
+geckodriver.log
