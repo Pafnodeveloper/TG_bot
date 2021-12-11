@@ -1,4 +1,4 @@
 """мой бот"""
-TOKEN = '1824661618:AAEdJrjeUoeMtcHMieK7tGVoqiI8AbZuClk'
+TOKEN = ''
 
-my_telegram_id = 766871073
+my_telegram_id = 
